@@ -1,7 +1,7 @@
 # haml4gh
 
 ## Overview
-This is a "workaround" plugin to use HAML for Github pages development.
+This is a "workaround" Jekyll plugin to use HAML for Github pages development.
 
 As you may know, Jekyll supports HAML via plugins quite well, however, Github doesn't accept those (see its [plugins list](https://pages.github.com/versions/))
 
